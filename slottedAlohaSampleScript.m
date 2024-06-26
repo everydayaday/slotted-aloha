@@ -5,3 +5,4 @@ clear all
 % packet ready probability  = 0.0057
 % simulation time = 5000
 saloha(100,0.0057,100,5000,true,true);
+csma_ca(100,0.0057,100,5000,true,true);
